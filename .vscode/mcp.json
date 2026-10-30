@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "postwoman": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/mcp.js"]
+    }
+  }
+}
